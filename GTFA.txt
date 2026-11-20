@@ -1,0 +1,34 @@
+GTFA: DSCR Loan Pre-Approval for the RCFE Master Lease
+
+1. Financing: DSCR Loan Pre-Approval
+
+- Next step: Engage a regional commercial lender to review a DSCR loan pre-approval based on the projected $10,000/month RCFE Master Lease income. Regional lenders know the local senior-care market and can underwrite a single-tenant lease to a licensed RCFE operator.
+- How DSCR works: DSCR = net operating income / debt service. Lenders commonly require 1.20x to 1.25x for this kind of property.
+- Maximum debt service at a 1.25x target: $10,000 / 1.25 = $8,000 per month ($96,000 per year). This assumes the Master Lease is triple-net, so the full $10,000 counts as net operating income. If the owner pays property taxes, insurance or reserves, those costs must be deducted first, and the maximum payment drops accordingly.
+- Financial cushion: At the $8,000 ceiling, the cushion is $2,000 per month ($24,000 per year), or 20 percent of the lease income. Lease income could fall 20 percent before DSCR reaches 1.00x (breakeven). Any shortfall below $10,000 at that payment level would breach the 1.25x covenant, so borrowing below the ceiling adds safety.
+- What to bring to the lender: the signed Master Lease, the operator's RCFE license and financial history, property details and personal financial statements.
+
+2. Retirement Structuring
+
+- QDRO: A Qualified Domestic Relations Order is a court order, issued in a divorce or legal separation, that assigns all or part of a qualified plan, such as a 401(k) or pension, to a spouse or former spouse. Distributions paid to that alternate payee under a QDRO are exempt from the 10 percent early-withdrawal penalty, although ordinary income tax still applies unless the funds are rolled over. IRAs are not divided by a QDRO. They are split through a transfer incident to divorce, and the QDRO penalty exception does not apply to them.
+- Checkbook control: A self-directed IRA can own an LLC that the account holder manages, giving direct control over investments. A Solo 401(k) offers similar control when the holder is the plan trustee and has self-employment income. Any loan made to the retirement account must be non-recourse.
+
+3. Compliance: IRC Section 4975 Self-Dealing
+
+- Risk: The account holder, the spouse, and the account holder's parents, children and other lineal relatives are disqualified persons. If the account holder is also the RCFE Master Lease operator or a guarantor on the loan, the lease or the guarantee becomes a prohibited transaction. For an IRA, the entire account can lose its tax-advantaged status and be treated as fully distributed.
+- Structural fixes: (a) Lease the property to an independent, unrelated third-party operator at market rent. (b) Alternatively, hold and finance the property outside the retirement account, so that the account holder can operate the RCFE and personally guarantee the DSCR loan without restriction.
+
+4. Post-Separation Financial Management
+
+- Keep the property, the LLC and the loan titled in your name alone, and document that the funds are separate property.
+- Qualify for the DSCR loan on your own credit and income. Close or separate joint accounts and pull an individual credit report before applying.
+- Finalize the QDRO before relying on those funds for a down payment or reserves.
+- Coordinate with a family-law attorney and a CPA so the property settlement, the QDRO and the loan timeline align.
+
+5. Research Cadence
+
+- Weekly: Sweep RCFE-sector news, including state licensing updates, Senior Housing News and McKnight's Senior Living.
+- Monthly: Review commercial lending rates and DSCR requirements from regional lenders.
+- Quarterly: Check IRS guidance on prohibited transactions and retirement-account rules, and update this plan.
+
+This summary is general information, not legal or tax advice. Confirm each step with a qualified attorney, CPA and lender.
